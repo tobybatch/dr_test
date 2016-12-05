@@ -1,0 +1,12 @@
+[submodule "modules/neontabs"]
+	path = modules/neontabs
+	url = git@bitbucket.org:neontabs/neontabs.git
+[submodule "modules/nt_tabs"]
+	path = modules/nt_tabs
+	url = git@bitbucket.org:neontabs/nt_tabs.git
+[submodule "modules/ntzz_modules"]
+	path = modules/ntzz_modules
+	url = git@bitbucket.org:neontabs/ntzz_modules.git
+[submodule "themes/neontabs_theme"]
+	path = themes/neontabs_theme
+	url = git@bitbucket.org:neontabs/neontabs_theme.git
